@@ -8,21 +8,21 @@
                     веб-сайтов, способствующих успеху.
                 </p>
                 <div class="flex items-center gap-x-10 mt-5">
-                    <RouterLink to="/" class="bg-[#FCD980] py-4  px-4 rounded-full text-black font-semibold">Посмотреть нашу
+                    <RouterLink to="/" class="bg-[#FCD980] py-4  px-4 rounded-full text-black font-semibold">Посмотреть
+                        нашу
                         работу</RouterLink>
                     <RouterLink to="/">
-                        Посмотреть 
+                        Посмотреть
                         цены
                         <Icon icon="pajamas:arrow-right" />
                     </RouterLink>
                 </div>
             </div>
             <div>
-                <img src="../../image/Illustration.svg" alt="">
+                <img src="../../public/image/Illustration.svg" alt="">
             </div>
         </div>
         <div>
-
         </div>
     </header>
 </template>
