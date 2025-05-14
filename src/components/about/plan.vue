@@ -21,22 +21,22 @@ const qwe = ref(
 )
 const card = ref([
     {
-        img:'../../../public/image/card-icon.png',
+        img:'/image/card-icon.png',
         title:'Planning',
         text:'Lorem ipsum dolor sit amet, consetetur sadipscing elitr.'
     },
     {
-        img:'../../../public/image/card-icon.png',
+        img:'/image/card-icon.png',
         title:'Conception',
         text:'Lorem ipsum dolor sit amet, consetetur sadipscing elitr.'
     },
     {
-        img:'../../../public/image/card-icon.png',
+        img:'/image/card-icon.png',
         title:'Design',
         text:'Lorem ipsum dolor sit amet, consetetur sadipscing elitr.'
     },
     {
-        img:'../../../public/image/card-icon.png',
+        img:'/image/card-icon.png',
         title:'Development',
         text:'Lorem ipsum dolor sit amet, consetetur sadipscing elitr.'
     },

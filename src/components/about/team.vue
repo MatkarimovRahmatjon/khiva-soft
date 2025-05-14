@@ -21,22 +21,22 @@ import { ref } from "vue";
 
 const card = ref([
     {
-        img: '/public/image/icon/img1.png',
+        img: '/image/icon/img1.png',
         title: 'John Smith',
         text: 'CEO'
     },
     {
-        img: '/public/image/icon/img2.png',
+        img: '/image/icon/img2.png',
         title: 'Simon Adams',
         text: 'CTO'
     },
     {
-        img: '/public/image/icon/img3.png',
+        img: '/image/icon/img3.png',
         title: 'Paul Jones',
         text: 'Design Lead '
     },
     {
-        img: '/public/image/icon/img4.png',
+        img: '/image/icon/img4.png',
         title: 'Sara Hardin',
         text: 'Project Manager'
     },

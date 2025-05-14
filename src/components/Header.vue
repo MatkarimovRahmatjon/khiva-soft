@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div>
-                <img src="../../public/image/Illustration.svg" alt="">
+                <img src="/image/Illustration.svg" alt="">
             </div>
         </div>
         <div>

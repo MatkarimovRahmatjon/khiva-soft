@@ -3,7 +3,7 @@
         <div class="container">
             <div class="flex justify-between">
                 <div>
-                    <img src="../../../public/image/1/2.png" alt="">
+                    <img src="/image/1/2.png" alt="">
                 </div>
                 <div class="my-14 max-w-[623px] w-full">
                     <h3 class=" font-medium text-[18px] leading-8">Free Revision Rounds</h3>

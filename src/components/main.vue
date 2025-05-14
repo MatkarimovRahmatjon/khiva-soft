@@ -8,7 +8,7 @@
                     достижению совершенства. Ваш успех – наша миссия.</p>
                 <div class="flex items-center">
                     <a href="#!" class="text-[#2405F2] mr-[54px]">Свяжись с нами</a>
-                    <a href="#!"><img src="../../public/img/Arrow 2.svg" alt=""></a>
+                    <a href="#!"><img src="/img/Arrow 2.svg" alt=""></a>
                 </div>
             </div>
             <div class="max-w-[656px] w-full flex flex-wrap">

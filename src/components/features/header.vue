@@ -10,7 +10,7 @@
 
             </div>
             <div>
-                <img src="../../../public/image/Feature Hero Illustration.svg" alt="">
+                <img src="/image/Feature Hero Illustration.svg" alt="">
             </div>
         </div>
         <div>

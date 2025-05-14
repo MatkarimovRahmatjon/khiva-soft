@@ -7,7 +7,7 @@
                 <p class="opacity-[70%] text-[16px] mt-8 leading-7 text-justify">{{ header.text }}</p>
             </div>
             <div>
-                <img src="../../../public/image/header-img.png" alt="">
+                <img src="/image/header-img.png" alt="">
             </div>
         </div>
 

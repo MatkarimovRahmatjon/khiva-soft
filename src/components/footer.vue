@@ -21,16 +21,16 @@
                     <h1 class="opacity-[80%] text-[16px] leading-7 max-w-[399px] w-full">{{ content.text }}</h1>
                     <div class="flex gap-7">
                         <a href="#!">
-                            <img src="../../public/image/facebook.png" alt="">
+                            <img src="/image/facebook.png" alt="">
                         </a>
                         <a href="#!">
-                            <img src="../../public/image/twiter.png" alt="">
+                            <img src="/image/twiter.png" alt="">
                         </a>
                         <a href="#!">
-                            <img src="../../public/image/insta.png" alt="">
+                            <img src="/image/insta.png" alt="">
                         </a>
                         <a href="#!">
-                            <img src="../../public/image/likedn.png" alt="">
+                            <img src="/image/likedn.png" alt="">
                         </a>
                     </div>
                 </div>

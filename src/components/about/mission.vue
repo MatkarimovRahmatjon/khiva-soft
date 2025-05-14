@@ -9,13 +9,13 @@
                     <p class="opacity-[70%] text-[16px] leading-7">{{ OurMission.text }}</p>
                 </div>
                 <div>
-                    <img src="../../../public/image/mission-Img.png" alt="">
+                    <img src="/image/mission-Img.png" alt="">
                 </div>
             </div>
              
             <div class="flex  justify-between">
                 <div>
-                    <img src="../../../public/image/mission-Img1.png" alt="">
+                    <img src="/image/mission-Img1.png" alt="">
                 </div>
                 <div class="my-14 max-w-[623px] w-full">
                     <h3 class=" font-medium text-[16px] leading-7">{{ OurMission.topTitle2 }}</h3>

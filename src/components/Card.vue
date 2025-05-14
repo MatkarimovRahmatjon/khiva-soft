@@ -8,7 +8,7 @@
 
                     <div class="flex items-center">
                         <a href="#!" class="text-[#282938] mr-[7px]">{{ card.text }}</a>
-                        <a href="#!"><img src="../../public/image/Arrow 1.png" alt="" ></a>
+                        <a href="#!"><img src="/image/Arrow 1.png" alt="" ></a>
                     </div>
 
                 </div>
@@ -20,7 +20,7 @@
                             <p class=" mt-[18px] mb-3 max-w-[293px] w-full font-medium text-[16px] left-6 text-[#FFFFFF] opacity-[80%]">{{ card.cardtext }}</p>
                             <div class="flex items-center">
                                 <a href="#!" class="text-[#FCD980] mr-1">{{ card.cardlink }}</a>
-                                <a href="#!"><img src="../../public/image/Arrow 2.png" alt=""></a>
+                                <a href="#!"><img src="/image/Arrow 2.png" alt=""></a>
                             </div>
                         </div>
                     </div>

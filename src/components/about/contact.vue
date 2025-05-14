@@ -12,7 +12,7 @@
                     <p class="text-[16px] leading-7 opacity-[70%   ]">{{ content.text }}</p>
                 </div>
             </div>
-            <img src="../../../public/image/Contact-img.png" alt="">
+            <img src="/image/contact-img.png" alt="">
 
         </div>
     </div>

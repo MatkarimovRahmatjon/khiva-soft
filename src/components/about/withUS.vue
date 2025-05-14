@@ -18,10 +18,10 @@
                 <p class="opacity-[70%]">{{ qwerty.Text2 }}</p>
             </div>
             <div class="flex gap-x-[60px] max-h-[32px] h-full">
-                <img src="../../../public/image/icon/Logo 1.png" alt="" >
-                <img src="../../../public/image/icon/Logo 2.png" alt="" >
-                <img src="../../../public/image/icon/Logo 3.png" alt="" >
-                <img src="../../../public/image/icon/Logo 4.png" alt="" >
+                <img src="/image/icon/Logo 1.png" alt="" >
+                <img src="/image/icon/Logo 2.png" alt="" >
+                <img src="/image/icon/Logo 3.png" alt="" >
+                <img src="/image/icon/Logo 4.png" alt="" >
             </div>
         </div>
 
@@ -44,17 +44,17 @@ const qwerty = ref (
 )
 const qwe =ref ([
     {
-        img:'../../../public/image/icon/card1.png',
+        img:'/image/icon/card1.png',
         title:'Customize with ease',
         text:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim.',
     },
     {
-        img:'../../../public/image/icon/card2.png',
+        img:'/image/icon/card2.png',
         title:'Perfectly Responsive',
         text:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim.',
     },
     {
-        img:'../../../public/image/icon/card3.png',
+        img:'/image/icon/card3.png',
         title:'Friendly Support',
         text:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim.',
     },

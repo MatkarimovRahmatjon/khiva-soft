@@ -3,8 +3,8 @@
         <div class="mt-[1299px] mb-[993px]">
             <div class="flex">
                 <div class="relative w-2/4 h-[691px]">
-                    <img src="../../public/image/Convert.png" alt="" class="absolute w-full h-full">
-                    <img src="../../public/image/shadow.png" alt="" class="absolute w-full h-full">
+                    <img src="/image/Convert.png" alt="" class="absolute w-full h-full">
+                    <img src="/image/shadow.png" alt="" class="absolute w-full h-full">
 
                     <div class="absolute w-full h-full max-w-[464px]  ml-[96px]">
                         <h1 class="pt-[96px] font-semibold text-[32px] leading-[74px] text-white">{{ content.title }}

@@ -8,7 +8,7 @@
                     <p class="opacity-[70%] text-[16px] leading-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
                 </div>
                 <div>
-                    <img src="../../../public/image/1/3.png" alt="">
+                    <img src="/image/1/3.png" alt="">
                 </div>
             </div>
 
